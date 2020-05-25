@@ -18,7 +18,11 @@ markmarkoh / [datamaps](https://github.com/markmarkoh/datamaps)
 Latest How-to's and Guides
 [Try it in your browser](https://jsbin.com/nutawiboci/1/edit?html,output)
 
+[DataMaps](http://datamaps.github.io/old) Interactive maps for data visualizations. Bundled into a single Javascript file.
+
 ## Samples
 
 [CodePen Home Cyber Attack - Datamaps](https://codepen.io/idrakimuhamad/pen/ZyVyeK?editors=1010)  
 [countries color](https://codepen.io/eesur/pen/HfAcd?editors=1010)  
+[在地图上放置标记？](https://www.coder.work/article/5259229)  
+[Marker plugin from Datamap](http://jsfiddle.net/duck0/kbqpfL1a/2/) - JSFiddle - Code Playground
